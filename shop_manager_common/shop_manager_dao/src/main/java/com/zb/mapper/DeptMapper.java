@@ -7,5 +7,6 @@ import java.util.List;
 
 @Mapper
 public interface DeptMapper {
+    //教师及测试
     public List<Dept> findDeptList();
 }
