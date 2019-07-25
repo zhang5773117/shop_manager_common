@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop_manager_dao" />
+        <module name="shop_manager_dto" />
+        <module name="shop_manager_model" />
+        <module name="shop_manager_service" />
+        <module name="shop_manager_util" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
